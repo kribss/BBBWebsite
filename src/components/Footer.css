@@ -1,0 +1,42 @@
+.footer-container {
+  background-color: #242424;
+  padding: 6rem 0 2rem 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+  color: white;
+}
+.footer-subscription-heading {
+  padding: 0rem;
+}
+.footer-link:link {
+  color: #fff;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.footer-link:visited {
+  color: #fff;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.social-logo {
+  color: white;
+}
+.fa-ethereum {
+  padding: 4rem;
+  padding-bottom: 6rem;
+  color: white;
+}
+.footer-form > input {
+  margin-left: 20%;
+  position: center;
+  width: 300px;
+  width: 125px;
+  margin-right: auto;
+}
+
+.built-by-kribs {
+  text-align: center;
+  padding-bottom: 2rem;
+}
